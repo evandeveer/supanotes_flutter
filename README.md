@@ -1,8 +1,21 @@
-# Supanotes_flutter
+# Supanotes_flutter 📝
 
-Une application de note en Flutter.
+Application mobile de prise de notes développée avec **Flutter** et **Dart**.
 
-## Demo
+## 🚀 Démo
 
-Lien vers le site de demo : https://supanotes-4a48b.web.app/
+👉 [https://supanotes-4a48b.web.app/](https://supanotes-4a48b.web.app/)
+
+## ✨ Fonctionnalités
+
+* Création, modification et suppression de notes
+
+## 🛠️ Technologies
+
+* Flutter
+* Dart
+
+---
+
+
 
