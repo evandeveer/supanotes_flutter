@@ -1,12 +1,5 @@
-# Marquer les dossiers générés ou plateformes comme "vendored" 
-# (ils seront ignorés dans les statistiques de langage)
-android/* linguist-vendored
-ios/* linguist-vendored
-web/* linguist-vendored
-linux/* linguist-vendored
-macos/* linguist-vendored
-windows/* linguist-vendored
-
-# Ignorer les fichiers de gestion de paquets et de lock
-pubspec.lock linguist-vendored
-.metadata linguist-vendored
+*.js linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.* linguist-detectable=false
+*.cpp* linguist-detectable=false
